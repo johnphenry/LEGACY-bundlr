@@ -1,6 +1,5 @@
 # bundlr
 A python program that will automatically take an OSX executable and place it into an application bundle. Designed for the command-line user with a deadline.
-Used for many game jams and it really helped out. It helps to not have to go into an IDE just to generate an app file.
 
 # How to use
 USAGE:
