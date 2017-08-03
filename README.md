@@ -7,3 +7,6 @@ USAGE:
 bundlr [NAME OF APP]
 
 Pass the name of the application bundle as the first argument to the program and the app will be generated in the directory the app was called from.
+
+# Dependencies
+Ensure that you have the makeicns program installed. Makeicns will generate the icon for the bundle from a .PNG file. You can get makeicns using homebrew or install it from the source code.
